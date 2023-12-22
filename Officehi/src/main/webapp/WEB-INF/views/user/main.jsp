@@ -59,7 +59,9 @@
 			<div class="main-box">
 				<div class="notice-wrapper">
 					<a href="${context}notices" class="notice-box floating">공지사항</a>
-					<a href="${context}notices/${notice.noticeNo}" class="notice-title floating">${notice.title}</a>
+					<%-- <a href="${context}notices/${notice.noticeNo}" class="notice-title floating">${notice.title}</a> --%>
+					<a href="${context}notices/${notice.noticeNo}" class="notice-title floating">${asideColorClass}</a>
+					<p>${currentUrl}</p>
 				</div>
 				<div class="content-box-wrapper">
 					<div class="content-box wrapping-2 floating">
