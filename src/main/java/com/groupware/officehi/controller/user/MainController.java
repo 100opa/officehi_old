@@ -4,7 +4,6 @@ import java.util.List;
 import java.util.Optional;
 import java.util.stream.Collectors;
 
-import javax.servlet.ServletContext;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpSession;
 
@@ -42,7 +41,6 @@ public class MainController {
 	private final ApprovalService approvalService;
 	private final WorkService workService;
 	private final EmployeeService employeeService;
-	private final ServletContext servletContext;
 	
 	public LoginUserDTO loginUser = null;
 	
