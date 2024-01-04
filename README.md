@@ -28,11 +28,14 @@
 <br>
 
 ## 🛠개발 환경
-* Front
-Windows10, Spring Framework 5.2.25.RELEASE, Java 11, Tomcat 8.5, MySQL 8.0.22, spring-jdbc 5.2.25, MyBatis 3.5.14, MyBatis-spring 2.1.2, Lombok 1.18.30, hibernate-validator 6.0.23.Final, validation-api 2.0.1. Final
 
-* Back
+![개발환경](https://github.com/100opa/officehi/assets/147002859/ee904293-7cc8-4db0-b1f3-e3e54c6acf6d)
+
+* ### Front <br> 
 HTML5, JavaScript5, CSS3, jQuery 3.7.1
+
+* ### Back <br>
+Windows10, Spring Framework 5.2.25.RELEASE, Java 11, Tomcat 8.5, MySQL 8.0.22, spring-jdbc 5.2.25, MyBatis 3.5.14, MyBatis-spring 2.1.2, Lombok 1.18.30, hibernate-validator 6.0.23.Final, validation-api 2.0.1. Final
 
 <br>
 
